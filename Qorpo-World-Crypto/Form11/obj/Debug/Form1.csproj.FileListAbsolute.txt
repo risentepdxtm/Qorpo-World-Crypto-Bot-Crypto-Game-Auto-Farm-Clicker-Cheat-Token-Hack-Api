@@ -1,0 +1,2 @@
+D:\GithubNew\15\Qorpo-World\Qorpo-World\Qorpo-World-Crypto\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\15\Qorpo-World\Qorpo-World\Qorpo-World-Crypto\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
